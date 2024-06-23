@@ -1,7 +1,7 @@
 # Create a Blog Website for reading and  writing posts using HTML, CSS, Node.js, and MongoDB for Data Storage.
 
 ## Directory Structure
-
+<code>
 Blog/
 │
 ├── models/
@@ -37,3 +37,4 @@ Blog/
 ├── package-lock.json
 ├── package.json
 └── README.md
+</code>
